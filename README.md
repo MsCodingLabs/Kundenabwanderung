@@ -1,2 +1,2 @@
 ## Screenshot
-![Kundenabwanderung.png(https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/ExcelDatensatzKaggle.png)
+![ExcelDatensatzKaggle.png(https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/ExcelDatensatzKaggle.png)
