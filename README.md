@@ -2,3 +2,4 @@
 ![ExcelDatensatzKaggle](https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/ExcelDatensatzKaggle.png?raw=true)
 ![KundenabwanderungsanalyseExcelDashboard](https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/KundenabwanderungsanalyseExcelDashboard.png)
 ![Vorhersagemodel](https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/Vorhersagemodel.png)
+![Handlungsempfehlung](https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/Handlungsempfehlung.png)
