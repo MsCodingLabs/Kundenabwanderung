@@ -10,10 +10,19 @@ Vorhersage von Kundenabwanderung mithilfe von Machine Learning (Random Forest) u
 
 ---
 ## Screenshot
+
+*Datensatz*
 ![ExcelDatensatzKaggle](https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/ExcelDatensatzKaggle.png?raw=true)
+
+*Analyse in Excel*
 ![KundenabwanderungsanalyseExcelDashboard](https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/KundenabwanderungsanalyseExcelDashboard.png)
+
+*Vorhersage in Python*
 ![Vorhersagemodel](https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/Vorhersagemodel.png)
-![Handlungsempfehlung](https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/Handlungsempfehlung.png)
+
+*Handlungsempfehlung*
+![Handlungsempfehlung](https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/Handlungsempfehlung.png) 
+
 ---
 
 ## 📊 Highlights
@@ -36,7 +45,6 @@ Vorhersage von Kundenabwanderung mithilfe von Machine Learning (Random Forest) u
 
 - **Quelle**: [Kaggle – E-Commerce Customer Churn](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
 - **Lizenz**: CC BY-NC-SA 4.0
-
 ---
 
 ## 📜 Lizenz
